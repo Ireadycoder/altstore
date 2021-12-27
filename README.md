@@ -8,7 +8,7 @@
 
 5. go to the arrow that shows your task located near the bottom right of screen
                                                                                                                   
-6.left click the icon
+6. left click the icon
 
 7. click install Altserver then select your device
 
